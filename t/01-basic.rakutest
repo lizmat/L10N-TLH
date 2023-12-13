@@ -1,0 +1,11 @@
+use Test;
+plan 1;
+
+my $ast := Q:to/CODE/.AST("TLH");
+jatlh "Hello World";
+CODE
+$ast.EVAL;
+
+pass "Compiled and ran";
+
+# vim: expandtab shiftwidth=4

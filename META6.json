@@ -1,0 +1,29 @@
+{
+  "auth": "zef:lizmat",
+  "authors": [
+    "Elizabeth Mattijsen"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Klingon localization of Raku",
+  "license": "Artistic-2.0",
+  "name": "L10N::TLH",
+  "perl": "6.d",
+  "provides": {
+    "L10N::TLH": "lib/L10N/TLH.rakumod",
+    "RakuAST::Deparse::L10N::TLH": "lib/RakuAST/Deparse/L10N/TLH.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+    "LOCALIZATION",
+    "KLINGON",
+    "TLH"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
