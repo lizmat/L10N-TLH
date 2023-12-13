@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/lizmat/L10N-TLH/actions/workflows/test.yml/badge.svg)](https://github.com/lizmat/L10N-TLH/actions)
+
 NAME
 ====
 

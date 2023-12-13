@@ -2,7 +2,10 @@ use Test;
 plan 1;
 
 my $ast := Q:to/CODE/.AST("TLH");
-jatlh "Hello World";
+Wij $a = 42;
+chugh $a == 42 {
+    jatlh "The answer"
+}
 CODE
 $ast.EVAL;
 
