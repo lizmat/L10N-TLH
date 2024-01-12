@@ -2,5 +2,8 @@ Revision history for L10N-TLH
 
 {{$NEXT}}
 
+0.0.2  2024-01-12T21:29:09+01:00
+    - Update update-localization script to create precomp
+
 0.0.1  2023-12-13T21:01:44+01:00
     - Initial version
