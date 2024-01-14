@@ -2,6 +2,9 @@ Revision history for L10N-TLH
 
 {{$NEXT}}
 
+0.0.3  2024-01-14T11:16:26+01:00
+    - Make update-localization script language agnostic
+
 0.0.2  2024-01-12T21:29:09+01:00
     - Update update-localization script to create precomp
 
